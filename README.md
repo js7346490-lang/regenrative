@@ -12,7 +12,7 @@ Fill a brief description of this experiment here
 
 <b>Name of developer | <b> Abhay Patel
 :--|:--|
-<b> REC BANNDA | <b>  
+<b> Institute| REC BANDA<b>  
 <b>Email id|js7346490@gmail.com<b>  
 <b> Department |Information Technology  
 
